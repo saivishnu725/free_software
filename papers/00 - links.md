@@ -82,7 +82,7 @@
    Dongarra, J., Beckman, P., Aerts, P., (...), Valero, M.  
    International Journal of High Performance Computing Applications, 2009  
    https://www.scopus.com/pages/publications/70450159193  
-   NA for free download
+   https://netlib.org/utk/people/JackDongarra/PAPERS/IESP-IJHPCA-v6.pdf (NA for publisher; direct from the author's workplace)
 
 7. Open source software and the self-governed community  
    Meyer, M., Montagne, F.  
